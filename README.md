@@ -113,6 +113,6 @@ git push -u origin main
 ### Step 8: Access your live website
 Wait about 1-2 minutes for GitHub to build and deploy your site. 
 Refresh the Settings > Pages tab. You will see a message saying:
-**"Your site is live at https://your-Raksha.D.O.github.io/modern-blog-website/"**
+**"Your site is live at https://RakshaDO github.io/modern-blog-website/"**
 
 Click the link to view your live, browser-based blog platform!
